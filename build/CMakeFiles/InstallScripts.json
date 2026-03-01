@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"B:/Projects/Atoms/Atoms/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

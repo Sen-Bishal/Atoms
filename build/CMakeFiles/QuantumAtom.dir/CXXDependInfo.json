@@ -1,0 +1,65 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Release",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "B:/Projects/Atoms/Atoms/build",
+	"dir-cur-src" : "B:/Projects/Atoms/Atoms",
+	"dir-top-bld" : "B:/Projects/Atoms/Atoms/build",
+	"dir-top-src" : "B:/Projects/Atoms/Atoms",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"C:\\vcpkg\\installed\\x64-windows\\include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "B:/Projects/Atoms/Atoms/build/CMakeFiles/QuantumAtom.dir",
+	"sources" : 
+	{
+		"CMakeFiles/QuantumAtom.dir/src/engine/Camera.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "B:/Projects/Atoms/Atoms/src/engine/Camera.cpp"
+		},
+		"CMakeFiles/QuantumAtom.dir/src/engine/Engine.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "B:/Projects/Atoms/Atoms/src/engine/Engine.cpp"
+		},
+		"CMakeFiles/QuantumAtom.dir/src/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "B:/Projects/Atoms/Atoms/src/main.cpp"
+		},
+		"CMakeFiles/QuantumAtom.dir/src/physics/Atom.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "B:/Projects/Atoms/Atoms/src/physics/Atom.cpp"
+		},
+		"CMakeFiles/QuantumAtom.dir/src/physics/Particle.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "B:/Projects/Atoms/Atoms/src/physics/Particle.cpp"
+		},
+		"CMakeFiles/QuantumAtom.dir/src/physics/Photon.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "B:/Projects/Atoms/Atoms/src/physics/Photon.cpp"
+		},
+		"CMakeFiles/QuantumAtom.dir/src/physics/QMSolver.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "B:/Projects/Atoms/Atoms/src/physics/QMSolver.cpp"
+		},
+		"CMakeFiles/QuantumAtom.dir/src/renderer/Renderer.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "B:/Projects/Atoms/Atoms/src/renderer/Renderer.cpp"
+		}
+	}
+}

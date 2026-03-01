@@ -1,0 +1,3 @@
+B:/Projects/Atoms/Atoms/build/CMakeFiles/QuantumAtom.dir
+B:/Projects/Atoms/Atoms/build/CMakeFiles/edit_cache.dir
+B:/Projects/Atoms/Atoms/build/CMakeFiles/rebuild_cache.dir

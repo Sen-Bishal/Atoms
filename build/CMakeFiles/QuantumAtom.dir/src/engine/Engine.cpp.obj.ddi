@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\QuantumAtom.dir\\src\\engine\\Engine.cpp.obj",
+            "outputs": [
+                "CMakeFiles\\QuantumAtom.dir\\src\\engine\\Engine.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

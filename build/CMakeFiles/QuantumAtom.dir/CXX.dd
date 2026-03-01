@@ -1,0 +1,17 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\QuantumAtom.dir\src\engine\Camera.cpp.obj: dyndep
+
+build CMakeFiles\QuantumAtom.dir\src\engine\Engine.cpp.obj: dyndep
+
+build CMakeFiles\QuantumAtom.dir\src\main.cpp.obj: dyndep
+
+build CMakeFiles\QuantumAtom.dir\src\physics\Atom.cpp.obj: dyndep
+
+build CMakeFiles\QuantumAtom.dir\src\physics\Particle.cpp.obj: dyndep
+
+build CMakeFiles\QuantumAtom.dir\src\physics\Photon.cpp.obj: dyndep
+
+build CMakeFiles\QuantumAtom.dir\src\physics\QMSolver.cpp.obj: dyndep
+
+build CMakeFiles\QuantumAtom.dir\src\renderer\Renderer.cpp.obj: dyndep
+
